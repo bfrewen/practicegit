@@ -24,6 +24,11 @@ Ickle was captain and pickle was crew
 Tickle served tea and Mulligan stew.
 "Horray!" "What fun!" "It's time we flew!"
 Said Icklme, Picklem, Tickleme, too.
+<<<<<<< HEAD
 ----------------------------------------------------------------------------
 Winston Churchill once said
 "eyes are the windows of your face"
+=======
+
+o.o -.- o.o
+>>>>>>> origin/master
