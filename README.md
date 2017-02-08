@@ -51,7 +51,7 @@ poem is encouraged.
 
 **Command line**:
 ```bash
-git add -p main_files/poems.txt
+git add main_files/poems.txt
 git commit -m “Add additional poem”
 ```
 
